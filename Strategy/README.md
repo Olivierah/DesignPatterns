@@ -5,7 +5,7 @@
 
 ## Why?
 
-This project is part of my personal portfolio, so any feedback or suggestion that can contribute to my growth and improve my data science skills will be most welcome.
+This project is part of my personal portfolio, so any feedback or suggestion that can contribute to my growth and improve my development skills will be most welcome.
 
 # Project description:
 
