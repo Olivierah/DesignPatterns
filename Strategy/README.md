@@ -18,7 +18,7 @@ Below we have two representations in class diagrams of how to implement a functi
 
 ![Preview-Screens](ImageAsset/BadWayEn.png)
 
-Desvantagens:
+Downside:
 - High coupling
 - Bad maintainability
 
@@ -26,7 +26,7 @@ Desvantagens:
 
 ![Preview-Screens](ImageAsset/GoodWayEn.png)
 
-Benefits:
+Upside:
 
 - Low coupling
 - Applied the Single-responsibility Principle (SOLID)
