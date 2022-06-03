@@ -16,7 +16,7 @@ Below we have two representations in class diagrams of how to implement a functi
 
 ##Bad way
 
-![Preview-Screens](Strategy/ImageAsset/BadWayEn.png)
+![Preview-Screens](DesignPatterns/Strategy/ImageAsset/BadWayEn.png)
 
 Desvantagens:
 - High coupling
@@ -24,7 +24,7 @@ Desvantagens:
 
 ## Good way:
 
-![Preview-Screens](Strategy/ImageAsset/GoodWayEn.png)
+![Preview-Screens](DesignPatterns/Strategy/ImageAsset/GoodWayEn.png)
 
 Benefits:
 
@@ -36,7 +36,7 @@ Benefits:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Sobre o projeto (pt-BR 🇧🇷).**
 
-## Descição do projeto:
+##Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o STRATEGY.
 O Strategy é um padrão que permite definir novas operações sem alterar as classes dos elementos sobre os quais opera, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
@@ -45,15 +45,15 @@ Abaixo temos uma duas representações em diagramas de classes de como imlementa
 
 ##solução menos adequada
 
-![Preview-Screens](Strategy/ImageAsset/BadWayBr.png)
+![Preview-Screens](DesignPatterns/Strategy/ImageAsset/BadWayBr.png)
 
 Desvantagens:
 - Alto acoplamento
 - Manutenibilidade ruim
 
-## Solução mais adequada:
+##Solução mais adequada:
 
-![Preview-Screens](Strategy/ImageAsset/GoodWayBr.png)
+![Preview-Screens](DesignPatterns/Strategy/ImageAsset/GoodWayBr.png)
 
 Vantagens:
 
