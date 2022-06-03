@@ -14,7 +14,7 @@ Strategy is a design pattern that allows you to define new operations without ch
 
 Below we have two representations in class diagrams of how to implement a functionality for tax calculation.
 
-##Bad way
+## Bad way
 
 ![Preview-Screens](ImageAsset/BadWayEn.png)
 
@@ -36,14 +36,14 @@ Benefits:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Sobre o projeto (pt-BR 🇧🇷).**
 
-##Descição do projeto:
+## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o STRATEGY.
 O Strategy é um padrão que permite definir novas operações sem alterar as classes dos elementos sobre os quais opera, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
 
 Abaixo temos uma duas representações em diagramas de classes de como imlementar uma funcionalidade para cálculo de imposto.
 
-##solução menos adequada
+## Solução menos adequada
 
 ![Preview-Screens](ImageAsset/BadWayBr.png)
 
@@ -51,7 +51,7 @@ Desvantagens:
 - Alto acoplamento
 - Manutenibilidade ruim
 
-##Solução mais adequada:
+## Solução mais adequada:
 
 ![Preview-Screens](ImageAsset/GoodWayBr.png)
 
