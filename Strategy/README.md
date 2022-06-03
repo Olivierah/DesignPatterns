@@ -1,4 +1,5 @@
-# Design Patterns 
+# STRATEGY
+## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
 
@@ -6,7 +7,6 @@
 
 This project is part of my personal portfolio, so any feedback or suggestion that can contribute to my growth and improve my data science skills will be most welcome.
 
-## STRATEGY
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about STRATEY.
