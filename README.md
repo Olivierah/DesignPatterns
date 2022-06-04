@@ -1,7 +1,7 @@
 # DesignPatterns
 ## Examples of how to use a Design Pattern
 
-Each folder contains a design pattern. Just choose and learn! 
+Each enumerated folder contains a Design Pattern type. Just choose one to get started and learn! 
 I hope I can help =)
 
 ###### Just in case: 
