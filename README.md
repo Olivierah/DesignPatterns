@@ -6,7 +6,7 @@
 ###### NOTE: 
 All examples represent a progression of a budget system using appropriate Design Patterns for each situation.
 
-Each enumerated folder contains a Design Pattern type. Just choose one to get started and learn! 
+Each enumerated folder contains a Design Pattern type. Just choose one to get started! 
 I hope I can help =)
 
 ###### Just in case: 

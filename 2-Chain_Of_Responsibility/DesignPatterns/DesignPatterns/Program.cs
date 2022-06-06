@@ -1,6 +1,6 @@
-﻿// Design Patterns Strategy
+﻿// Projeto Parte 2 : Chain Of Responsibility
 
-// É um padrão que permite definir novas operações sem alterar as classes dos elementos sobre os quais opera.
+// É um padrão que 
 
 using DesignPatterns;
 

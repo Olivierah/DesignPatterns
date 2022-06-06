@@ -1,4 +1,4 @@
-﻿// Design Patterns Strategy
+﻿// Projeto Parte 1: Strategy
 
 // É um padrão que permite definir novas operações sem alterar as classes dos elementos sobre os quais opera.
 
