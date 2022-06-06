@@ -7,6 +7,6 @@
             double meuImposto = imposto.Calcula(orcamento);
             Console.WriteLine(meuImposto);
         }
-        
+
     }
 }
