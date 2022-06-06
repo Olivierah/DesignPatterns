@@ -16,7 +16,7 @@ Below we have two representations in class diagrams of how to implement a functi
 
 ## Bad way
 
-![Preview-Screens](ImageAsset/BadWayEn.png)
+![Preview-Screens](DesignPatterns/ImageAsset/Strategy/BadWayEn.png)
 
 Downside:
 - High coupling
@@ -24,7 +24,7 @@ Downside:
 
 ## Good way:
 
-![Preview-Screens](ImageAsset/GoodWayEn.png)
+![Preview-Screens](DesignPatterns/ImageAsset/Strategy/GoodWayEn.png)
 
 Upside:
 
@@ -45,7 +45,7 @@ Abaixo temos uma duas representações em diagramas de classes de como imlementa
 
 ## Solução menos adequada
 
-![Preview-Screens](ImageAsset/BadWayBr.png)
+![Preview-Screens](DesignPatterns/ImageAsset/Strategy/BadWayBr.png)
 
 Desvantagens:
 - Alto acoplamento
@@ -53,7 +53,7 @@ Desvantagens:
 
 ## Solução mais adequada:
 
-![Preview-Screens](ImageAsset/GoodWayBr.png)
+![Preview-Screens](DesignPatterns/ImageAsset/Strategy/GoodWayBr.png)
 
 Vantagens:
 
