@@ -1,4 +1,4 @@
-# CHAIN OF RESPONSIBILITY
+# TEMPLATE METHOD
 ## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
@@ -10,7 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about CHAIN OF RESPONSIBILITY.
-Chain of responsibility avoids the dependency between a receiving object and a requesting object, increasing cohesion, code maintainability and reducing coupling.
+Template Method is a pattern that assists in defining an algorithm with parts of it defined by abstract methods (using Heritage).
 
 ## Implementation:
 
@@ -28,7 +28,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o CHAIN OF RESPONSIBILITY.
-O Chain of responsibility visa evitar a dependência entre um objeto receptor e um objeto solicitante, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
+O Template Method é um padrão que auxilia na definição de um algoritmo com partes do mesmo definidos por métodos abstratos (Utilizando Herança).
 
 ## Implementação:
 
