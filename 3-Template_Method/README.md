@@ -9,7 +9,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 # Project description:
 
-Speaking a little about Design Patterns. The example project used here is about CHAIN OF RESPONSIBILITY.
+Speaking a little about Design Patterns. The example project used here is about TEMPLATE METHOD.
 Template Method is a pattern that assists in defining an algorithm with parts of it defined by abstract methods (using Heritage).
 
 ## Implementation:
@@ -18,16 +18,15 @@ Template Method is a pattern that assists in defining an algorithm with parts of
 
 Some Upsides:
 
-- Low coupling
-- Applied the Single-responsibility Principle (SOLID)
-- Applied the Open-closed Principle (SOLID)
+- Duplicate code stays in a superclass
+- Maintenance on just a few parts of a large algorithm
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Sobre o projeto (pt-BR 🇧🇷).**
 
 ## Descição do projeto:
 
-Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o CHAIN OF RESPONSIBILITY.
+Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o TEMPLATE METHOD.
 O Template Method é um padrão que auxilia na definição de um algoritmo com partes do mesmo definidos por métodos abstratos (Utilizando Herança).
 
 ## Implementação:
@@ -36,6 +35,5 @@ O Template Method é um padrão que auxilia na definição de um algoritmo com p
 
 Algumas Vantagens:
 
-- Baixo acomplamento
-- Aplicado o Princípio da responsabilidade única (SOLID)
-- Aplicado o Princípio Aberto-Fechado (SOLID)
+- Código duplicado fica em uma superclasse.
+- A manutenção acontece em apenas algumas partes de um algoritmo grande.
