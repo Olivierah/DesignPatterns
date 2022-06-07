@@ -12,9 +12,6 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 Speaking a little about Design Patterns. The example project used here is about CHAIN OF RESPONSIBILITY.
 Chain of responsibility avoids the dependency between a receiving object and a requesting object, increasing cohesion, code maintainability and reducing coupling.
 
-Below we have two representations in class diagrams of how to implement a functionality for tax calculation.
-
-
 ## Implementation:
 
 ![Preview-Screens](ImageAsset/ExEn.png)
@@ -32,9 +29,6 @@ Some Upsides:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o CHAIN OF RESPONSIBILITY.
 O Chain of responsibility visa evitar a dependência entre um objeto receptor e um objeto solicitante, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
-
-Abaixo temos uma duas representações em diagramas de classes de como imlementar uma funcionalidade para cálculo de imposto.
-
 
 ## Implementação:
 

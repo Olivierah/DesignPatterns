@@ -10,7 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about TEMPLATE METHOD.
-Template Method .
+Template Method ...
 
 Below we have two representations in class diagrams of how to implement a functionality for tax calculation.
 
@@ -38,7 +38,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o CHAIN OF RESPONSIBILITY.
-O Chain of responsibility visa evitar a dependência entre um objeto receptor e um objeto solicitante, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
+Template Method ...
 
 Abaixo temos uma duas representações em diagramas de classes de como imlementar uma funcionalidade para cálculo de imposto.
 
