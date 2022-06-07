@@ -1,4 +1,4 @@
-# CHAIN OF RESPONSIBILITY
+# 3-TEMPLATE METHOD
 ## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
@@ -9,15 +9,22 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 # Project description:
 
-Speaking a little about Design Patterns. The example project used here is about CHAIN OF RESPONSIBILITY.
-Chain of responsibility avoids the dependency between a receiving object and a requesting object, increasing cohesion, code maintainability and reducing coupling.
+Speaking a little about Design Patterns. The example project used here is about TEMPLATE METHOD.
+Template Method .
 
 Below we have two representations in class diagrams of how to implement a functionality for tax calculation.
 
+## Bad way
 
-## Implementation:
+![Preview-Screens](ImageAsset/BadWayEn.png)
 
-![Preview-Screens](ImageAsset/ExEn.png)
+Some Downsides:
+- High coupling
+- Bad maintainability
+
+## Good way:
+
+![Preview-Screens](ImageAsset/GoodWayEn.png)
 
 Some Upsides:
 
@@ -35,10 +42,17 @@ O Chain of responsibility visa evitar a dependência entre um objeto receptor e 
 
 Abaixo temos uma duas representações em diagramas de classes de como imlementar uma funcionalidade para cálculo de imposto.
 
+## Solução menos adequada
 
-## Implementação:
+![Preview-Screens](ImageAsset/BadWayBr.png)
 
-![Preview-Screens](ImageAsset/ExBr.png)
+Algumas Desvantagens:
+- Alto acoplamento
+- Manutenibilidade ruim
+
+## Solução mais adequada:
+
+![Preview-Screens](ImageAsset/GoodWayBr.png)
 
 Algumas Vantagens:
 

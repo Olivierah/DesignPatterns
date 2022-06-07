@@ -3,6 +3,9 @@
 
 **Budget system**
 
+###### Info: 
+Framework Version: .Net 6 
+
 ###### NOTE: 
 All examples represent a progression of a budget system using appropriate Design Patterns for each situation.
 
