@@ -10,6 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about Builder.
+
 Builder lets you produce different types and representations of an object using the same build code.
 ## Implementation:
 
@@ -27,6 +28,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Builder.
+
 O Builder permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
 ## Implementação:
