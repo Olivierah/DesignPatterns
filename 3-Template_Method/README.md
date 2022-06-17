@@ -10,6 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about TEMPLATE METHOD.
+
 Template Method is a pattern that assists in defining an algorithm with parts of it defined by abstract methods (using Heritage).
 
 ## Implementation:
@@ -27,6 +28,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o TEMPLATE METHOD.
+
 O Template Method é um padrão que auxilia na definição de um algoritmo com partes do mesmo definidos por métodos abstratos (Utilizando Herança).
 
 ## Implementação:

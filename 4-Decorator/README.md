@@ -10,6 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about Decorator.
+
 Decorator lets you dynamically add behavior/responsibilities to an existing object at runtime..
 ## Implementation:
 
@@ -27,6 +28,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Decorator.
+
 O Decorator permite adicionar um comportamento/responsabilidades dinamicamente a um objeto já existente em tempo de execução.
 
 ## Implementação:

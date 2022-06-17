@@ -10,6 +10,7 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 # Project description:
 
 Speaking a little about Design Patterns. The example project used here is about State.
+
 State is used when an object's behavior changes depending on its state.
 ## Implementation:
 
@@ -27,6 +28,7 @@ Some Upsides:
 ## Descição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o State.
+
 O State é usado quando o comportamento de um objeto muda, dependendo do seu estado.
 
 ## Implementação:
