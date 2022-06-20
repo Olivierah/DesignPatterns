@@ -11,7 +11,8 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 Speaking a little about Design Patterns. The example project used here is about Observer.
 
-Observer 
+Observer is a software design pattern that defines a one-to-many dependency between objects so that when an object changes state, all of its dependents are automatically notified and updated. 
+
 ## Implementation:
 
 ![Preview-Screens](ImageAsset/ExEn.png)
@@ -29,7 +30,7 @@ Some Upsides:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Observer.
 
-O Observer 
+O Observer é um padrão de projeto de software que define uma dependência um-para-muitos entre objetos de modo que quando um objeto muda o estado, todos seus dependentes são notificados e atualizados automaticamente.
 
 ## Implementação:
 
