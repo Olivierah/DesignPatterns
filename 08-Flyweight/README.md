@@ -19,6 +19,7 @@ Flyweight is an appropriate software design pattern when multiple objects must b
 
 
 **Complexity level:** HIGH LEVEL
+
 **Popularity:** LOW
 
 Some Upsides:
@@ -41,6 +42,7 @@ Flyweight é um padrão de projeto de software apropriado quando vários objetos
 ![Preview-Screens](ImageAsset/ExBr.png)
 
 **Nível de complexidade:** ALTA COMPLEXIDADE
+
 **Popularidade:** BAIXA
 
 Algumas Vantagens:

@@ -18,6 +18,7 @@ Memento allows you to store the internal state of an object at a given time, so 
 ![Preview-Screens](ImageAsset/ExEn.png)
 
 **Complexity level:** HIGH LEVEL
+
 **Popularity:** LOW
 
 Some Upsides:
@@ -40,6 +41,7 @@ O Memento permite armazenar o estado interno de um objeto em um determinando mom
 ![Preview-Screens](ImageAsset/ExBr.png)
 
 **Nível de complexidade:** ALTA COMPLEXIDADE
+
 **Popularidade:** BAIXA
 
 Algumas Vantagens:
