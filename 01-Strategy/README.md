@@ -13,6 +13,10 @@ Speaking a little about Design Patterns. The example project used here is about 
 
 Strategy is a design pattern that allows you to define new operations without changing the classes of the elements on which it operates, increasing cohesion, code maintainability and reducing coupling.
 
+**Complexity level:** LOW LEVEL
+
+**Popularity:** HIGH
+
 Below we have two representations in class diagrams of how to implement a functionality for tax calculation.
 
 ## Bad way
@@ -42,6 +46,10 @@ Some Upsides:
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o STRATEGY.
 
 O Strategy é um padrão que permite definir novas operações sem alterar as classes dos elementos sobre os quais opera, aumentando a coesão, manutenibilidade do código e reduzindo o acoplamento.
+
+**Nível de complexidade:** BAIXA COMPLEXIDADE
+
+**Popularidade:** ALTA
 
 Abaixo temos uma duas representações em diagramas de classes de como imlementar uma funcionalidade para cálculo de imposto.
 
