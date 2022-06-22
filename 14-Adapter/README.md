@@ -1,4 +1,4 @@
-# BUILDER
+# ADAPTER
 ## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
@@ -9,9 +9,10 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 # Project description:
 
-Speaking a little about Design Patterns. The example project used here is about Builder.
+Speaking a little about Design Patterns. The example project used here is about Adapter.
 
-Builder lets you produce different types and representations of an object using the same build code.
+Adapter allows classes with incompatible interfaces to work together.
+
 ## Implementation:
 
 ![Preview-Screens](ImageAsset/ExEn.png)
@@ -19,7 +20,7 @@ Builder lets you produce different types and representations of an object using 
 Some Upsides:
 
 - Applied the Single-responsibility Principle (SOLID).
-- Você pode reutilizar o mesmo código de construção ao criar várias representações.
+- Applied the Open-closed Principle (SOLID).
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,9 +28,9 @@ Some Upsides:
 
 ## Descição do projeto:
 
-Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Builder.
+Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Adapter.
 
-O Builder permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
+O Adapter permite que classes com interfaces incompatíveis trabalhem juntas.
 
 ## Implementação:
 
@@ -38,5 +39,5 @@ O Builder permite produzir diferentes tipos e representações de um objeto usan
 Algumas Vantagens:
 
 - Aplicado o Princípio da responsabilidade única (SOLID).
-- You can reuse the same build code when creating multiple representations.
+- Aplicado o Princípio Aberto-Fechado (SOLID)
 

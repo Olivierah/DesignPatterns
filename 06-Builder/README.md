@@ -19,7 +19,7 @@ Builder lets you produce different types and representations of an object using 
 Some Upsides:
 
 - Applied the Single-responsibility Principle (SOLID).
-- Você pode reutilizar o mesmo código de construção ao criar várias representações.
+- You can reuse the same build code when creating multiple representations. 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,5 +38,5 @@ O Builder permite produzir diferentes tipos e representações de um objeto usan
 Algumas Vantagens:
 
 - Aplicado o Princípio da responsabilidade única (SOLID).
-- You can reuse the same build code when creating multiple representations.
+- Você pode reutilizar o mesmo código de construção ao criar várias representações.
 

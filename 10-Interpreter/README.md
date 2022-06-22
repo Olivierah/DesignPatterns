@@ -1,4 +1,4 @@
-# BUILDER
+# INTERPRETER
 ## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
@@ -9,17 +9,21 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 # Project description:
 
-Speaking a little about Design Patterns. The example project used here is about Builder.
+Speaking a little about Design Patterns. The example project used here is about Interpreter.
 
-Builder lets you produce different types and representations of an object using the same build code.
+Interpreter seeks to solve modeling problems that deal with the behavior of classes.
+
 ## Implementation:
 
 ![Preview-Screens](ImageAsset/ExEn.png)
 
+**Complexity level:** MID LEVEL
+
+**Popularity:** MEDIUM
+
 Some Upsides:
 
-- Applied the Single-responsibility Principle (SOLID).
-- Você pode reutilizar o mesmo código de construção ao criar várias representações.
+- Good for solving class hierarchy problems.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,16 +31,19 @@ Some Upsides:
 
 ## Descição do projeto:
 
-Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Builder.
+Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Interpreter.
 
-O Builder permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
+O Interpreter permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
 ## Implementação:
 
 ![Preview-Screens](ImageAsset/ExBr.png)
 
+**Nível de complexidade:** MÉDIA COMPLEXIDADE
+
+**Popularidade:** MÉDIA
+
 Algumas Vantagens:
 
-- Aplicado o Princípio da responsabilidade única (SOLID).
-- You can reuse the same build code when creating multiple representations.
+- Bom para resolver problemas ligados a hierarquia de classes.
 

@@ -1,4 +1,4 @@
-# BUILDER
+# BRIDGE
 ## Design Patterns 
 
 **About this project (en-US 🇺🇸).**
@@ -9,17 +9,24 @@ This project is part of my personal portfolio, so any feedback or suggestion tha
 
 # Project description:
 
-Speaking a little about Design Patterns. The example project used here is about Builder.
+Speaking a little about Design Patterns. The example project used here is about Bridge.
 
-Builder lets you produce different types and representations of an object using the same build code.
+The Bridge pattern is used when it is necessary that an interface can vary independently of its implementations.
+
 ## Implementation:
 
 ![Preview-Screens](ImageAsset/ExEn.png)
 
+**Complexity level:** HIGH LEVEL
+
+**Popularity:** LOW
+
 Some Upsides:
 
 - Applied the Single-responsibility Principle (SOLID).
-- Você pode reutilizar o mesmo código de construção ao criar várias representações.
+- Applied the Open-closed Principle (SOLID).
+- You can create platform-independent classes and applications.
+- Client code works with high-level abstractions
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,16 +34,22 @@ Some Upsides:
 
 ## Descição do projeto:
 
-Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Builder.
+Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o Bridge.
 
-O Builder permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
+O padrão Bridge é utilizado quando é desejável que uma interface possa variar independentemente das suas implementações.
 
 ## Implementação:
 
 ![Preview-Screens](ImageAsset/ExBr.png)
 
+**Nível de complexidade:** ALTA COMPLEXIDADE
+
+**Popularidade:** BAIXA
+
 Algumas Vantagens:
 
 - Aplicado o Princípio da responsabilidade única (SOLID).
-- You can reuse the same build code when creating multiple representations.
+- Aplicado o Princípio Aberto-Fechado (SOLID).
+- É possível criar classes e aplicativos independentes da plataforma.
+- O código do cliente funciona com abstrações de alto nível.
 
