@@ -41,7 +41,7 @@ Some Upsides:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Sobre o projeto (pt-BR 🇧🇷).**
 
-## Descição do projeto:
+## Descrição do projeto:
 
 Falando um pouco sobre Padrões de Projeto (Design Patterns), o exemplo praticado aqui é o STRATEGY.
 
